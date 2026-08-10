@@ -1,0 +1,41 @@
+---
+product-family:
+  title: NetApp Console lokale Bereitstellung
+  lead: NetApp Console lokale Bereitstellung bietet Teams intelligente Flottenverwaltung
+    in On-Premises-Umgebungen über eine zentrale, sichere Steuerungsebene. Die Dokumentation
+    kann nach Funktionen durchsucht oder über die Suche gezielt nach Inhalten gefiltert
+    werden.
+  summary: NetApp Console lokale Bereitstellung bietet Teams eine intelligente Flottenverwaltung
+    in On-Premises-Umgebungen über eine einzige sichere Steuerungsebene.
+  sidebarlinks:
+  - title: Alle
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: Lokale Console-Bereitstellung
+    tags: console-local
+  - title: Schutz
+    tags: data services
+  tiles:
+  - title: NetApp Console lokale Bereitstellung
+    url: "../console-local/index.html"
+    summary: NetApp Console lokale Bereitstellung bietet Teams intelligente Flottenverwaltung
+      in On-Premises-Umgebungen über eine einzige sichere Steuerungsebene.
+    tags: all, console-local
+  - title: NetApp Backup and Recovery
+    url: "../data-services-backup-recovery/index.html"
+    summary: ONTAP Ressourcen schützen und wiederherstellen.
+    tags: all, data services
+  - title: NetApp Console Dokumentation zur lokalen Bereitstellungs-API
+    url: "../console-local-automation/index.html"
+    summary: Die NetApp Console lokale Bereitstellung und Speicherressourcen können
+      programmatisch mit der NetApp Console Local Deployment API administriert und
+      verwaltet werden.
+    tags: all, api
+  - title: NetApp Console Versionshinweise zur lokalen Bereitstellung
+    url: "../console-local-relnotes/index.html"
+    summary: NetApp Console Versionshinweise zur lokalen Bereitstellung enthalten
+      Informationen über neue Funktionen, Verbesserungen und behobene Probleme in
+      den neuesten Versionen.
+    tags: all

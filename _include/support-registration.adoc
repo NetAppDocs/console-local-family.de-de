@@ -1,0 +1,18 @@
+= Übersicht der Supportregistrierung
+:allow-uri-read: 
+
+
+Für den Erhalt von technischem Support speziell für die lokale Bereitstellung der NetApp Console sowie deren Speicherlösungen und Datendienste ist eine Supportregistrierung erforderlich.
+
+
+
+[[support-registration-overview]]
+== Übersicht der Supportregistrierung
+
+Es gibt zwei Registrierungsformen zur Aktivierung des Anspruchs auf Support:
+
+* Registrierung der NetApp Console-Kontoseriennummer (der 20-stellige 960xxxxxxxxx-Seriennummer, die auf der Support Resources-Seite in der Console zu finden ist).
++
+Dies dient als Ihre einzige Support-Abonnement-ID für jeden Dienst innerhalb der Console. Jedes Console-Konto muss registriert sein.
+
+

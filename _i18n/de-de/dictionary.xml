@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">Selbsthilfeoptionen verwenden</block>
+  <block id="e1b60c2ad9c154960f01bfe202788f74" category="paragraph">NetApp bietet Unterstützung für die lokale Bereitstellung der NetApp Console auf vielfältige Weise. Umfangreiche kostenlose Selbsthilfeoptionen wie Knowledge Base (KB)-Artikel und ein Community-Forum stehen rund um die Uhr zur Verfügung. Die Support-Registrierung umfasst technischen Remote-Support über Web-Ticketing.</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Diese Optionen stehen Ihnen kostenlos 24 Stunden am Tag, 7 Tage die Woche zur Verfügung:</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Dokumentation</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">Die NetApp Console-Dokumentation, die Sie gerade ansehen.</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Wissensdatenbank</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">Durchsuchen Sie die NetApp Wissensdatenbank, um hilfreiche Artikel zur Fehlerbehebung zu finden.</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Communities</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">Tritt der NetApp Console-Community bei, um laufende Diskussionen zu verfolgen oder neue zu starten.</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">Übersicht der Supportregistrierung</block>
+  <block id="c3bd989c2b5ac8d3c39d676c243f24c8" category="paragraph">Für den Erhalt von technischem Support speziell für die lokale Bereitstellung der NetApp Console sowie deren Speicherlösungen und Datendienste ist eine Supportregistrierung erforderlich.</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Es gibt zwei Registrierungsformen zur Aktivierung des Anspruchs auf Support:</block>
+  <block id="869a868c87f6fb61410cfd773b4f1bab" category="list-text">Registrierung der NetApp Console-Kontoseriennummer (der 20-stellige 960xxxxxxxxx-Seriennummer, die auf der Support Resources-Seite in der Console zu finden ist).</block>
+  <block id="be0b51de4268d87101344aa0368b4403" category="paragraph">Dies dient als Ihre einzige Support-Abonnement-ID für jeden Dienst innerhalb der Console. Jedes Console-Konto muss registriert sein.</block>
+  <block id="ef5915c0fd287d47e033f66df5168a2d" category="sidebar">NetApp Console lokale Bereitstellung bietet Teams intelligente Flottenverwaltung in On-Premises-Umgebungen über eine zentrale, sichere Steuerungsebene. Die Dokumentation kann nach Funktionen durchsucht oder über die Suche gezielt nach Inhalten gefiltert werden.</block>
+  <block id="fe908ff50fedb21b0879418bfa836719" category="sidebar">NetApp Console lokale Bereitstellung bietet Teams eine intelligente Flottenverwaltung in On-Premises-Umgebungen über eine einzige sichere Steuerungsebene.</block>
+  <block id="fae210aa9f9d8906ee39264d97001f11" category="sidebar">NetApp Console lokale Bereitstellung</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Alle</block>
+  <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
+  <block id="000fa64b9d4129e5c8d4065ad88f7816" category="sidebar">Lokale Console-Bereitstellung</block>
+  <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">Schutz</block>
+  <block id="d4235acc6cfb5ad04f208b8c67cc4f11" category="sidebar">NetApp Console lokale Bereitstellung bietet Teams intelligente Flottenverwaltung in On-Premises-Umgebungen über eine einzige sichere Steuerungsebene.</block>
+  <block id="cc6088539286339733631d73fb51774b" category="sidebar">NetApp Backup and Recovery</block>
+  <block id="231d0185318cf25dc336c3835730b9dc" category="sidebar">ONTAP Ressourcen schützen und wiederherstellen.</block>
+  <block id="2552252bf4a8c9e15e4b1a3811386d74" category="sidebar">NetApp Console Dokumentation zur lokalen Bereitstellungs-API</block>
+  <block id="c8a24b7035b964928d14fa8f2946396a" category="sidebar">Die NetApp Console lokale Bereitstellung und Speicherressourcen können programmatisch mit der NetApp Console Local Deployment API administriert und verwaltet werden.</block>
+  <block id="c8687cc8b0048d02ed49a88bc671ffa6" category="sidebar">NetApp Console Versionshinweise zur lokalen Bereitstellung</block>
+  <block id="986fa776fdb2bf5c17fa6df68739dcd7" category="sidebar">NetApp Console Versionshinweise zur lokalen Bereitstellung enthalten Informationen über neue Funktionen, Verbesserungen und behobene Probleme in den neuesten Versionen.</block>
+</blocks>

@@ -1,0 +1,26 @@
+= Selbsthilfeoptionen verwenden
+:allow-uri-read: 
+
+
+NetApp bietet Unterstützung für die lokale Bereitstellung der NetApp Console auf vielfältige Weise. Umfangreiche kostenlose Selbsthilfeoptionen wie Knowledge Base (KB)-Artikel und ein Community-Forum stehen rund um die Uhr zur Verfügung. Die Support-Registrierung umfasst technischen Remote-Support über Web-Ticketing.
+
+
+
+[[use-self-support-options]]
+== Selbsthilfeoptionen verwenden
+
+Diese Optionen stehen Ihnen kostenlos 24 Stunden am Tag, 7 Tage die Woche zur Verfügung:
+
+* Dokumentation
++
+Die NetApp Console-Dokumentation, die Sie gerade ansehen.
+
+* https://kb.netapp.com/Cloud/BlueXP["Wissensdatenbank"^]
++
+Durchsuchen Sie die NetApp Wissensdatenbank, um hilfreiche Artikel zur Fehlerbehebung zu finden.
+
+* http://community.netapp.com/["Communities"^]
++
+Tritt der NetApp Console-Community bei, um laufende Diskussionen zu verfolgen oder neue zu starten.
+
+
